@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bar Scanner Prototype</string>
+    <string name="title_home">Bar Scanner</string>
+    <string name="title_dashboard">ArUco Scanner</string>
+</resources>
